@@ -1,3 +1,3 @@
 # ansible-app
 
-Common files for Ansible for MacOs developer tools.
+Install common apps for MacOs developer tools through Ansible.
